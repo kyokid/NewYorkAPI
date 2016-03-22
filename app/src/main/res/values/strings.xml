@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">News Article Search</string>
+    <string name="action_settings">Advance Search</string>
+    <string name="enterSearch">Enter search query</string>
+    <string name="Search">Search</string>
+    <string name="title_activity_article">ArticleActivity</string>
+    <string name="SearchAction">searchAction</string>
+    <string name="Settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="beginDate">Begin Date</string>
+    <string name="sortOrder">Sort Order</string>
+    <string name="SortOrder">Sort Order</string>
+    <string name="NewsDesk">News Desk\nValues</string>
+    <string name="Arts">Arts</string>
+    <string name="fashion"><![CDATA[Fashion & Style]]></string>
+    <string name="Sport">Sport</string>
+    <string name="SaveBtn">Save</string>
+
+    <string-array name="sorter">
+        <item>Newest</item>
+        <item>Oldest</item>
+    </string-array>
+</resources>
