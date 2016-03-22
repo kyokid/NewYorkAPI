@@ -133,7 +133,6 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         Article article = articles.get(position);
         intent.putExtra("article", article);
         startActivity(intent);
-        finish();
     }
 
     @Override
